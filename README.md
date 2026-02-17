@@ -1,8 +1,15 @@
 # Hello! i´m Jair Rivera
 
-Interested in Statistical Genomics, Epidemiology and Complex Diseases 
+Genomic Sciences undergraduate  
 
-Currently working on [Statistical Genomics and Population Health Laboratory](https://liigh.unam.mx/cvanhout/), LIIGH UNAM
+Statistical Genomics and Population Health Laboratory, LIIGH UNAM  
+
+Interested in statistical genomics, epidemiology and complex disease modeling focused on modeling in large population cohorts (MCPS)
+
+Currently working on:
+- Metabolomic PCA and metabolic health prediction
+- Obesity-related cancer epidemiology
+
 
 
 ### Tools:
