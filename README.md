@@ -1,10 +1,10 @@
-# Jair Rivera
-Hello!
+# Hello! i´m Jair Rivera
 
-I´m interested in Statistical Genomics, Epidemiology and Complex Diseases 
+Interested in Statistical Genomics, Epidemiology and Complex Diseases 
+
+Currently working on [Statistical Genomics and Population Health Laboratory](https://liigh.unam.mx/cvanhout/), LIIGH UNAM
 
 
-Currently working on [Statistical Genomics and Population Health Laboratory](https://liigh.unam.mx/cvanhout/) LIIGH, UNAM
 ### Tools:
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
