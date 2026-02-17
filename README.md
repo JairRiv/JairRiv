@@ -2,7 +2,7 @@
 Hello!
 I´m interested in Statistical Genomics, Epidemiology and Complex Diseases 
 Currently working on [Statistical Genomics and Population Health Laboratory](https://liigh.unam.mx/cvanhout/) LIIGH, UNAM
-Tools:
+### Tools:
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
       alt="R" width="40" height="40" />
