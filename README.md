@@ -5,7 +5,7 @@
 
 Genomic Sciences undergraduate  
 
-Statistical Genomics and Population Health Laboratory, LIIGH UNAM  
+Member of [Statistical Genomics and Population Health Laboratory](https://liigh.unam.mx/cvanhout/), LIIGH UNAM  
 
 Interested in statistical genomics, epidemiology and complex disease  
 
