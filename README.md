@@ -1,14 +1,26 @@
 # Hello! i´m Jair Rivera
 
+<img src="Phage-1.png" align="right" width="300"/>
+
+
 Genomic Sciences undergraduate  
 
 Statistical Genomics and Population Health Laboratory, LIIGH UNAM  
 
-Interested in statistical genomics, epidemiology and complex disease modeling focused on modeling in large population cohorts (MCPS)
+Interested in statistical genomics, epidemiology and complex disease  
+
+focused on modeling in large population cohorts (MCPS)
 
 Currently working on:
 - Metabolomic PCA and metabolic health prediction
 - Cancer epidemiology
+
+
+I like programming using:
+- R
+- Python
+- C
+- Bash
 
 <p>
   <a href="https://liigh.unam.mx/" target="_blank">
@@ -21,10 +33,3 @@ Currently working on:
          width="250">
   </a>
 </p>
-
-
-I like programming using:
-- R
-- Python
-- C
-- Bash
