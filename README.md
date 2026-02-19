@@ -21,7 +21,7 @@ I like programming using:
 - Python
 - C
 - Bash
-
+<br clear="right"/>
 <p>
   <a href="https://liigh.unam.mx/" target="_blank">
     <img src="https://liigh.unam.mx/wp-content/uploads/2018/02/logo-liigh-unam@72x-8.png"
